@@ -6,6 +6,8 @@
 // @author       firexdf
 // @match        *://*.reddit.com/*
 // @grant        none
+// @updateURL    https://github.com/FIREXDF/shit-translate-reddit/raw/refs/heads/main/Sh$t%20Reddit%20Translation-1.0.user.js
+// @downloadURL  https://github.com/FIREXDF/shit-translate-reddit/raw/refs/heads/main/Sh$t%20Reddit%20Translation-1.0.user.js
 // ==/UserScript==
 
 (function() {
