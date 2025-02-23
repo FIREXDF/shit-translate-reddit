@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Sh$t Reddit Translation
+// @name         Sh!t Reddit Translation
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Remove "?tl=lang" ou "&tl=lang" of url on Reddit
